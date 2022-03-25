@@ -1,8 +1,8 @@
 # Heroes
 
-* Superman
-* Batman
-* Aquaman
+* Bob Esponja
+* Popeye
+* Oliva
 * Mujer Maravilla
 * Linterna Verde
 * Robin
